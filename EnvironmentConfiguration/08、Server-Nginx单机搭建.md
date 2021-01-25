@@ -26,7 +26,7 @@
 - 编译
 
   ```shell
-  cd /usr/local/java/nginx-1.18.0
+  cd /usr/local/nginx-1.18.0
   ```
 
   ```shell
